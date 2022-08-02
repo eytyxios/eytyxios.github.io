@@ -4,10 +4,10 @@
 $pattern: "{{ site.baseurl }}/images/pattern.png";
 $screenshot-buttons: "{{ site.baseurl }}/images/screenshot-buttons.svg";
 
-$brand-color: #FFA715;
-$html-background-color: #222;
-$secondary-brand-color: #FFC461;
-$middle-gradient-color: mix($brand-color, $secondary-brand-color, 95%);
+$brand-color: linear-gradient(135deg, rgba(0,77,199,1) 0%, rgba(0,146,255,1) 50%, rgba(255,255,255,1) 100%);
+$html-background-color: rgb(0,77,199);
+$secondary-brand-color: rgba(255,255,255,1) 100%;
+$middle-gradient-color: rgba(0,146,255,1) 50%;
 
 // Breakpoints
 $tablet: "(min-width: 450px)";
