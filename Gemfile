@@ -1,6 +1,9 @@
 source 'https://rubygems.org'
 
 gem 'jekyll', '~> 4.2.0'
+gem 'tzinfo'
+gem 'tzinfo-data'
+gem 'webrick'
 
 group :jekyll_plugins do
   gem 'jekyll-archives', '~> 2.2.1'
