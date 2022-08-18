@@ -1,12 +1,11 @@
 links:
-- name: Portfolio
+- name: Έργα
   link: /portfolio/
-- name: Blog
+- name: Νέα
   link: /blog/
-- name: About
+- name: Σχετικά
   link: /about/
-- name: Contact
+- name: Επικοινωνία
   link: /contact/
-- name: Vourtsa
-  link: /vourtsa/
+
 
